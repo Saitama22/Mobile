@@ -10,7 +10,7 @@ public class LaptopServer {
     private static final String LOG_TAG = "myServerApp";
 
     // ip адрес сервера, который принимает соединения
-    private String mServerName = "192.168.1.71";
+    private String mServerName = "192.168.3.6";
 
     // номер порта, на который сервер принимает соединени
     private int mServerPort = 6789;
